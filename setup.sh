@@ -1,5 +1,5 @@
-# Created by: Mr Coxall
-# Created on: Sept 2020
+# Created by: Ava Venturino
+# Created on: Feb 2024
 # AWS Debian Linux .dotfiles and setup script
 
 sudo apt update
